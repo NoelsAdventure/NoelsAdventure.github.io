@@ -8,6 +8,8 @@ export const LINKS = {
   instagram: "https://www.instagram.com/immanuelraynaldo/",
   lqr_quadrotor: "https://github.com/NoelsAdventure/LQR_quadrotor",
   googlescholar: "https://scholar.google.com/citations?user=6KEyA1kAAAAJ&hl=en",
+  perception_aware: "https://nail-uh.github.io/draft.github.io/",
+  social_navigation: "https://nail-uh.github.io/rcra.github.io/",
   steward_platform: "https://nail-uh.github.io/StewartPlatformSafeControl.github.io/"
 };
 
